@@ -16,5 +16,5 @@
 </div>
 
 ## :zap: GitHub Stats
-### vou fazer kkkkk
+![Andre Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=DzinnnXn&show_icons=true&theme=radical)
 
