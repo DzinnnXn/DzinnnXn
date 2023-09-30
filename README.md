@@ -16,9 +16,7 @@
 </div>
 
 ## :zap: GitHub Stats
-<div>
-  ![Andre Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=DzinnnXn&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzinnnXn&hide_progress=true)
-</div>
+![Andre Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=DzinnnXn&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzinnnXn&hide_progress=true)
 
 
