@@ -15,6 +15,6 @@
 
 ## :zap: GitHub Stats
 ![Andre Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=DzinnnXn&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzinnnXn&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzinnnXn&hide_progress=false&theme=dark)
 
 
